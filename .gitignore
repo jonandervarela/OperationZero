@@ -1,0 +1,14 @@
+# Unity
+RetoPMD/Library/
+RetoPMD/Temp/
+RetoPMD/Obj/
+RetoPMD/Logs/
+RetoPMD/UserSettings/
+RetoPMD/MemoryCaptures/
+
+# Visual Studio
+RetoPMD/.vs/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
