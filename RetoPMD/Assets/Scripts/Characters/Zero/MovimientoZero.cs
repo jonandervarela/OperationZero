@@ -21,6 +21,11 @@ public class MovimientoZero : MonoBehaviour
     private bool movimientoBloqueado;
     private bool muerto;
 
+    // Controles tactiles
+    private bool tocarIzquierda;
+    private bool tocarDerecha;
+    private bool solicitarSalto;
+
     void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -33,7 +38,6 @@ public class MovimientoZero : MonoBehaviour
         if (muerto)
             return;
 
-        // Comprobar si ZERO está tocando el suelo.
         estaEnSuelo = groundCheck != null &&
             Physics2D.OverlapCircle(
                 groundCheck.position,
@@ -41,29 +45,32 @@ public class MovimientoZero : MonoBehaviour
                 capaSuelo
             ) != null;
 
-        // Leer movimiento horizontal.
+        // Teclado y controles tactiles.
+        float teclado = Input.GetAxisRaw("Horizontal");
+        float tactil = 0;
+
+        if (tocarIzquierda) tactil -= 1;
+        if (tocarDerecha) tactil += 1;
+
         movimientoHorizontal = movimientoBloqueado
             ? 0
-            : Input.GetAxisRaw("Horizontal");
+            : Mathf.Clamp(teclado + tactil, -1, 1);
 
-        // Girar el personaje.
         if (movimientoHorizontal < 0)
             spriteRenderer.flipX = true;
         else if (movimientoHorizontal > 0)
             spriteRenderer.flipX = false;
 
-        // Animación de caminar.
         animator.SetBool(
             "Caminando",
             movimientoHorizontal != 0 && estaEnSuelo
         );
 
-        // Animación de salto.
         animator.SetBool("Saltando", !estaEnSuelo);
 
-        // W para saltar.
+        // Salto con W o boton tactil.
         if (!movimientoBloqueado &&
-            Input.GetKeyDown(KeyCode.W) &&
+            (Input.GetKeyDown(KeyCode.W) || solicitarSalto) &&
             estaEnSuelo)
         {
             rb.linearVelocity = new Vector2(
@@ -73,9 +80,9 @@ public class MovimientoZero : MonoBehaviour
 
             animator.SetBool("Saltando", true);
             animator.SetBool("Caminando", false);
-
-            Debug.Log("ZERO está saltando");
         }
+
+        solicitarSalto = false;
     }
 
     void FixedUpdate()
@@ -95,10 +102,28 @@ public class MovimientoZero : MonoBehaviour
         );
     }
 
+    // Metodos para botones tactiles.
+    public void MantenerIzquierda(bool pulsado)
+    {
+        tocarIzquierda = pulsado;
+    }
+
+    public void MantenerDerecha(bool pulsado)
+    {
+        tocarDerecha = pulsado;
+    }
+
+    public void Saltar()
+    {
+        solicitarSalto = true;
+    }
+
     public void BloquearMovimiento()
     {
         movimientoBloqueado = true;
         movimientoHorizontal = 0;
+        tocarIzquierda = false;
+        tocarDerecha = false;
 
         rb.linearVelocity = new Vector2(
             0,
@@ -128,7 +153,6 @@ public class MovimientoZero : MonoBehaviour
         if (groundCheck != null)
         {
             Gizmos.color = Color.green;
-
             Gizmos.DrawWireSphere(
                 groundCheck.position,
                 radioSuelo

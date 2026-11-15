@@ -1,0 +1,406 @@
+fileFormatVersion: 2
+guid: 43a47a81528d6664192b61f035842b90
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3059609537880390432
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_0
+  - first:
+      213: -2667511296079412611
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_1
+  - first:
+      213: 4726671744088870455
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_2
+  - first:
+      213: -5327330307620823958
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_3
+  - first:
+      213: -111064723198072243
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_4
+  - first:
+      213: 6709693864765730825
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_5
+  - first:
+      213: 8521325337208741918
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_6
+  - first:
+      213: 536441252205716549
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_7
+  - first:
+      213: 8415220476186543498
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_8
+  - first:
+      213: 6906494279540965495
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_9
+  - first:
+      213: -7191142453295671078
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_10
+  - first:
+      213: 5193237716871699713
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_11
+  - first:
+      213: -7765882225301334729
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_12
+  - first:
+      213: -5141649626623080510
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_13
+  - first:
+      213: -6815642590783383081
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_14
+  - first:
+      213: 549346890991950246
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_15
+  - first:
+      213: 4913518340447258966
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_16
+  - first:
+      213: -1997928443688586801
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_17
+  - first:
+      213: -8999203785796454133
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_18
+  - first:
+      213: 3169910809905046233
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_19
+  - first:
+      213: -6498995341021846018
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_20
+  - first:
+      213: -8269437693809719685
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_21
+  - first:
+      213: 4651645966544563740
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_22
+  - first:
+      213: -8589770421665217263
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_23
+  - first:
+      213: 1960248310025126084
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_24
+  - first:
+      213: -1433438225977210023
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_25
+  - first:
+      213: 7415398066204168002
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_26
+  - first:
+      213: -1342075380135232176
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_27
+  - first:
+      213: -5279794773985329367
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_28
+  - first:
+      213: 4379149917797080059
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_29
+  - first:
+      213: -8154687051467479883
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_30
+  - first:
+      213: -5290105751550872610
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_31
+  - first:
+      213: 8138120748550252933
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_32
+  - first:
+      213: -5287534794525477076
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_33
+  - first:
+      213: 4569884138917201346
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_34
+  - first:
+      213: -8739264772687259464
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_35
+  - first:
+      213: 3049036258260308408
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_36
+  - first:
+      213: 331204213022763107
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_37
+  - first:
+      213: 3346038854851097218
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_38
+  - first:
+      213: -3247654871229488899
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_39
+  - first:
+      213: -392332916361557031
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_40
+  - first:
+      213: -1747755346257600306
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_41
+  - first:
+      213: 6083973460262634032
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_42
+  - first:
+      213: -8761100337093156886
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_43
+  - first:
+      213: -8761536567179831536
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_44
+  - first:
+      213: -4407101155324735053
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_45
+  - first:
+      213: -3646074303098830600
+    second: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_0
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 177
+        width: 528
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bf1c80aaae57a20800000000000000
+      internalID: 3059609537880390432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_1
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 179
+        width: 464
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7248dafb981bfad0800000000000000
+      internalID: -2667511296079412611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_2
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 178
+        width: 456
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e0b4488e2889140800000000000000
+      internalID: 4726671744088870455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 179
+        width: 472
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c96158f458116b0800000000000000
+      internalID: -5327330307620823958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d9e4b574f5a24424f9bb0653aadbfcd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_0: 3059609537880390432
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_1: -2667511296079412611
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_10: -7191142453295671078
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_11: 5193237716871699713
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_12: -7765882225301334729
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_13: -5141649626623080510
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_14: -6815642590783383081
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_15: 549346890991950246
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_16: 4913518340447258966
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_17: -1997928443688586801
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_18: -8999203785796454133
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_19: 3169910809905046233
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_2: 4726671744088870455
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_20: -6498995341021846018
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_21: -8269437693809719685
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_22: 4651645966544563740
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_23: -8589770421665217263
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_24: 1960248310025126084
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_25: -1433438225977210023
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_26: 7415398066204168002
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_27: -1342075380135232176
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_28: -5279794773985329367
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_29: 4379149917797080059
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_3: -5327330307620823958
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_30: -8154687051467479883
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_31: -5290105751550872610
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_32: 8138120748550252933
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_33: -5287534794525477076
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_34: 4569884138917201346
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_35: -8739264772687259464
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_36: 3049036258260308408
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_37: 331204213022763107
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_38: 3346038854851097218
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_39: -3247654871229488899
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_4: -111064723198072243
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_40: -392332916361557031
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_41: -1747755346257600306
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_42: 6083973460262634032
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_43: -8761100337093156886
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_44: -8761536567179831536
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_45: -4407101155324735053
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_46: -3646074303098830600
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_5: 6709693864765730825
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_6: 8521325337208741918
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_7: 536441252205716549
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_8: 8415220476186543498
+      a7b32099-2c2d-48ff-8fa8-b6ca7943f78b_9: 6906494279540965495
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
