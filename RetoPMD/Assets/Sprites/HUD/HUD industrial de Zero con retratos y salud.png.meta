@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: cc0cdc2762a6d2d42be51f9d79c69a07
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -53491858095441431
+    second: HUD industrial de Zero con retratos y salud_0
+  - first:
+      213: 962182297122258089
+    second: HUD industrial de Zero con retratos y salud_1
+  - first:
+      213: 7522347203913793878
+    second: HUD industrial de Zero con retratos y salud_2
+  - first:
+      213: 9218721106195680562
+    second: HUD industrial de Zero con retratos y salud_3
+  - first:
+      213: 8974469177036116206
+    second: HUD industrial de Zero con retratos y salud_4
+  - first:
+      213: -5850011620858074872
+    second: HUD industrial de Zero con retratos y salud_5
+  - first:
+      213: 3834380596367192137
+    second: HUD industrial de Zero con retratos y salud_6
+  - first:
+      213: 7652224928227552595
+    second: HUD industrial de Zero con retratos y salud_7
+  - first:
+      213: -8210178589215303296
+    second: HUD industrial de Zero con retratos y salud_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HUD industrial de Zero con retratos y salud_0
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 315
+        width: 1911
+        height: 398
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e978df3075f14ff0800000000000000
+      internalID: -53491858095441431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD industrial de Zero con retratos y salud_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 16
+        width: 270
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac342d83bb5a5d00800000000000000
+      internalID: 962182297122258089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD industrial de Zero con retratos y salud_2
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 16
+        width: 270
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6514f664deeb46860800000000000000
+      internalID: 7522347203913793878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD industrial de Zero con retratos y salud_4
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 16
+        width: 270
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee01ee0fa28bb8c70800000000000000
+      internalID: 8974469177036116206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD industrial de Zero con retratos y salud_5
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 73
+        width: 198
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809e8deec6590dea0800000000000000
+      internalID: -5850011620858074872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD industrial de Zero con retratos y salud_6
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 74
+        width: 196
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940fd1446d4763530800000000000000
+      internalID: 3834380596367192137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD industrial de Zero con retratos y salud_7
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 73
+        width: 198
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d646c670a223a60800000000000000
+      internalID: 7652224928227552595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b69bb73b2b367894fa84aac5fa741e05
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HUD industrial de Zero con retratos y salud_0: -53491858095441431
+      HUD industrial de Zero con retratos y salud_1: 962182297122258089
+      HUD industrial de Zero con retratos y salud_2: 7522347203913793878
+      HUD industrial de Zero con retratos y salud_4: 8974469177036116206
+      HUD industrial de Zero con retratos y salud_5: -5850011620858074872
+      HUD industrial de Zero con retratos y salud_6: 3834380596367192137
+      HUD industrial de Zero con retratos y salud_7: 7652224928227552595
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,772 @@
+fileFormatVersion: 2
+guid: ef4cda17c552bed438711dcec5147c42
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3530990992703587320
+    second: "Hoja de sprites de soldado t\xE1ctico animado_0"
+  - first:
+      213: 1358274936394342315
+    second: "Hoja de sprites de soldado t\xE1ctico animado_1"
+  - first:
+      213: 6780196431142747890
+    second: "Hoja de sprites de soldado t\xE1ctico animado_2"
+  - first:
+      213: -2755138699558051620
+    second: "Hoja de sprites de soldado t\xE1ctico animado_3"
+  - first:
+      213: -3475129628331293214
+    second: "Hoja de sprites de soldado t\xE1ctico animado_4"
+  - first:
+      213: 4247209299573718869
+    second: "Hoja de sprites de soldado t\xE1ctico animado_5"
+  - first:
+      213: 7360212364746117949
+    second: "Hoja de sprites de soldado t\xE1ctico animado_6"
+  - first:
+      213: -3245968573495276276
+    second: "Hoja de sprites de soldado t\xE1ctico animado_7"
+  - first:
+      213: 597291958308775549
+    second: "Hoja de sprites de soldado t\xE1ctico animado_8"
+  - first:
+      213: 7807861113913132564
+    second: "Hoja de sprites de soldado t\xE1ctico animado_9"
+  - first:
+      213: 646434450751226261
+    second: "Hoja de sprites de soldado t\xE1ctico animado_10"
+  - first:
+      213: -1392250328330179897
+    second: "Hoja de sprites de soldado t\xE1ctico animado_11"
+  - first:
+      213: -2784175673542053603
+    second: "Hoja de sprites de soldado t\xE1ctico animado_12"
+  - first:
+      213: 4357263190426801497
+    second: "Hoja de sprites de soldado t\xE1ctico animado_13"
+  - first:
+      213: 1671569613706159306
+    second: "Hoja de sprites de soldado t\xE1ctico animado_14"
+  - first:
+      213: 4727546086247999875
+    second: "Hoja de sprites de soldado t\xE1ctico animado_15"
+  - first:
+      213: -5400930288543149000
+    second: "Hoja de sprites de soldado t\xE1ctico animado_16"
+  - first:
+      213: 3629972168021605721
+    second: "Hoja de sprites de soldado t\xE1ctico animado_17"
+  - first:
+      213: 3355894730325982428
+    second: "Hoja de sprites de soldado t\xE1ctico animado_18"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Hoja de sprites de soldado t\xE1ctico animado_2"
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 457
+        width: 112
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafd913bbdf89d210800000000000000
+      internalID: 1358274936394342315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de soldado t\xE1ctico animado_4"
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 529
+        width: 120
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe72a92bb8181e50800000000000000
+      internalID: 6780196431142747890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de soldado t\xE1ctico animado_8"
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 444
+        width: 96
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fb3d3fa5e11fa30800000000000000
+      internalID: 4247209299573718869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de soldado t\xE1ctico animado_0"
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 438
+        width: 98
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416c066b0581b5c60800000000000000
+      internalID: 7807861113913132564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de soldado t\xE1ctico animado_15"
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 89
+        width: 95
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834dcb6948a0c05b0800000000000000
+      internalID: -5400930288543149000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de soldado t\xE1ctico animado_1"
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 439
+        width: 102
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318e85c6bf097bc49a94752246d9872b
+      internalID: -664657195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de soldado t\xE1ctico animado_3"
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 514
+        width: 111
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f335f8e7a7b26cd40a24e02f3cfbe8f4
+      internalID: 1915224914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de soldado t\xE1ctico animado_5"
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 499
+        width: 103
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf21e1c6818f2c4f9ae883888707d88
+      internalID: 1955290830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de soldado t\xE1ctico animado_6"
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 444
+        width: 102
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5c77d69d363494eb107756e35266a2
+      internalID: 858121754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de soldado t\xE1ctico animado_7"
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 442
+        width: 99
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b7da57135ce0342a3f7409147e4879
+      internalID: -752492941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de soldado t\xE1ctico animado_9"
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 438
+        width: 99
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa4bd48f7dd0904fa8c57ea2caf4156
+      internalID: 1847699697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de soldado t\xE1ctico animado_10"
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 439
+        width: 118
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34146916b13bf2a48a3f22db2503e4b7
+      internalID: -1693010618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de soldado t\xE1ctico animado_11"
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 438
+        width: 124
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112679e9ccb4aeb4ea80224b839089a0
+      internalID: -1426900881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de soldado t\xE1ctico animado_12"
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 439
+        width: 145
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d598d045f8b144e95a2e1ecebcfa5b
+      internalID: -992295005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de soldado t\xE1ctico animado_13"
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 439
+        width: 152
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d336c436e064904d8dc07a1bb889914
+      internalID: -274509077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de soldado t\xE1ctico animado_14"
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 439
+        width: 111
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e7310c6518c544786f195e04a401e2
+      internalID: -1484262313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de soldado t\xE1ctico animado_16"
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 89
+        width: 116
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a2a8964d920ee4699c7843e1d3fa16
+      internalID: -1118597189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de soldado t\xE1ctico animado_17"
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 88
+        width: 106
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b53218f73c421459bf6f2f93a5f6dd
+      internalID: 147141225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de soldado t\xE1ctico animado_18"
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 87
+        width: 96
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a4f331a29c1ea41be71954e1d725ef
+      internalID: 423771018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de soldado t\xE1ctico animado_19"
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 87
+        width: 96
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c78352997ff99d4ba7152716c7c9f8d
+      internalID: -2016586107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de soldado t\xE1ctico animado_20"
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 90
+        width: 123
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596d35c40d9fae14f8a5a28f7097c7b0
+      internalID: -1433187107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de soldado t\xE1ctico animado_21"
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 96
+        width: 144
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0aeeda37576f254896c63f54c20dec4
+      internalID: 1055652392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de soldado t\xE1ctico animado_22"
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 92
+        width: 161
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a24a22efc21d634ab9ac7b66bec9e2a
+      internalID: 12380665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de soldado t\xE1ctico animado_23"
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 91
+        width: 150
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e717fc16d5f9ae24eb5c38c508e0b19f
+      internalID: 893441229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de soldado t\xE1ctico animado_24"
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 94
+        width: 201
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d33025074a769d489b8e410b5e43fc4
+      internalID: -33054827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de soldado t\xE1ctico animado_25"
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 93
+        width: 205
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410f888f088629f46a6e24d16908889a
+      internalID: 2084456572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 25fe268b955e6e043bf6eaf4fba32029
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Hoja de sprites de soldado t\xE1ctico animado_0": 7807861113913132564
+      "Hoja de sprites de soldado t\xE1ctico animado_1": -664657195
+      "Hoja de sprites de soldado t\xE1ctico animado_10": -1693010618
+      "Hoja de sprites de soldado t\xE1ctico animado_11": -1426900881
+      "Hoja de sprites de soldado t\xE1ctico animado_12": -992295005
+      "Hoja de sprites de soldado t\xE1ctico animado_13": -274509077
+      "Hoja de sprites de soldado t\xE1ctico animado_14": -1484262313
+      "Hoja de sprites de soldado t\xE1ctico animado_15": -5400930288543149000
+      "Hoja de sprites de soldado t\xE1ctico animado_16": -1118597189
+      "Hoja de sprites de soldado t\xE1ctico animado_17": 147141225
+      "Hoja de sprites de soldado t\xE1ctico animado_18": 423771018
+      "Hoja de sprites de soldado t\xE1ctico animado_19": -2016586107
+      "Hoja de sprites de soldado t\xE1ctico animado_2": 1358274936394342315
+      "Hoja de sprites de soldado t\xE1ctico animado_20": -1433187107
+      "Hoja de sprites de soldado t\xE1ctico animado_21": 1055652392
+      "Hoja de sprites de soldado t\xE1ctico animado_22": 12380665
+      "Hoja de sprites de soldado t\xE1ctico animado_23": 893441229
+      "Hoja de sprites de soldado t\xE1ctico animado_24": -33054827
+      "Hoja de sprites de soldado t\xE1ctico animado_25": 2084456572
+      "Hoja de sprites de soldado t\xE1ctico animado_3": 1915224914
+      "Hoja de sprites de soldado t\xE1ctico animado_4": 6780196431142747890
+      "Hoja de sprites de soldado t\xE1ctico animado_5": 1955290830
+      "Hoja de sprites de soldado t\xE1ctico animado_6": 858121754
+      "Hoja de sprites de soldado t\xE1ctico animado_7": -752492941
+      "Hoja de sprites de soldado t\xE1ctico animado_8": 4247209299573718869
+      "Hoja de sprites de soldado t\xE1ctico animado_9": 1847699697
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

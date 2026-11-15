@@ -1,0 +1,853 @@
+fileFormatVersion: 2
+guid: 3b9716a7e06b82c49900517d724fc4a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2559072777971247552
+    second: Hoja de sprites pixel art de soldado SWAT_0
+  - first:
+      213: -4789041331416074256
+    second: Hoja de sprites pixel art de soldado SWAT_1
+  - first:
+      213: -1955487658843686469
+    second: Hoja de sprites pixel art de soldado SWAT_2
+  - first:
+      213: 6164195186643788591
+    second: Hoja de sprites pixel art de soldado SWAT_3
+  - first:
+      213: 1009186642768115872
+    second: Hoja de sprites pixel art de soldado SWAT_4
+  - first:
+      213: 3848913580763415379
+    second: Hoja de sprites pixel art de soldado SWAT_5
+  - first:
+      213: 5160722848303543591
+    second: Hoja de sprites pixel art de soldado SWAT_6
+  - first:
+      213: -3306009571858966536
+    second: Hoja de sprites pixel art de soldado SWAT_7
+  - first:
+      213: -7375591578165109177
+    second: Hoja de sprites pixel art de soldado SWAT_8
+  - first:
+      213: -4621427903668894987
+    second: Hoja de sprites pixel art de soldado SWAT_9
+  - first:
+      213: 7762887838612105137
+    second: Hoja de sprites pixel art de soldado SWAT_10
+  - first:
+      213: -3224476710102675119
+    second: Hoja de sprites pixel art de soldado SWAT_11
+  - first:
+      213: 7572964813163147043
+    second: Hoja de sprites pixel art de soldado SWAT_12
+  - first:
+      213: -704013562574011978
+    second: Hoja de sprites pixel art de soldado SWAT_13
+  - first:
+      213: -2809367713063507012
+    second: Hoja de sprites pixel art de soldado SWAT_14
+  - first:
+      213: -8957247509800306421
+    second: Hoja de sprites pixel art de soldado SWAT_15
+  - first:
+      213: -9013225169513927281
+    second: Hoja de sprites pixel art de soldado SWAT_16
+  - first:
+      213: -5630751342964070485
+    second: Hoja de sprites pixel art de soldado SWAT_17
+  - first:
+      213: -9171563379576064013
+    second: Hoja de sprites pixel art de soldado SWAT_18
+  - first:
+      213: -1927569792455595589
+    second: Hoja de sprites pixel art de soldado SWAT_19
+  - first:
+      213: -497577107650627583
+    second: Hoja de sprites pixel art de soldado SWAT_20
+  - first:
+      213: 4543138072381571386
+    second: Hoja de sprites pixel art de soldado SWAT_21
+  - first:
+      213: 2650409239012320313
+    second: Hoja de sprites pixel art de soldado SWAT_22
+  - first:
+      213: -1354186163338997570
+    second: Hoja de sprites pixel art de soldado SWAT_23
+  - first:
+      213: 8031335299066133018
+    second: Hoja de sprites pixel art de soldado SWAT_24
+  - first:
+      213: -2012537064086168245
+    second: Hoja de sprites pixel art de soldado SWAT_25
+  - first:
+      213: 6270629394592177049
+    second: Hoja de sprites pixel art de soldado SWAT_26
+  - first:
+      213: -8464959905340712463
+    second: Hoja de sprites pixel art de soldado SWAT_27
+  - first:
+      213: -6673835676265883608
+    second: Hoja de sprites pixel art de soldado SWAT_28
+  - first:
+      213: 6199101685290435932
+    second: Hoja de sprites pixel art de soldado SWAT_29
+  - first:
+      213: -1531266322490850189
+    second: Hoja de sprites pixel art de soldado SWAT_30
+  - first:
+      213: -6209656859329846004
+    second: Hoja de sprites pixel art de soldado SWAT_31
+  - first:
+      213: -3369666405393520245
+    second: Hoja de sprites pixel art de soldado SWAT_32
+  - first:
+      213: 8235544888008645999
+    second: Hoja de sprites pixel art de soldado SWAT_33
+  - first:
+      213: -1575118001966378598
+    second: Hoja de sprites pixel art de soldado SWAT_34
+  - first:
+      213: 3236727531883534705
+    second: Hoja de sprites pixel art de soldado SWAT_35
+  - first:
+      213: 8943448234205310041
+    second: Hoja de sprites pixel art de soldado SWAT_36
+  - first:
+      213: -3173449965161020086
+    second: Hoja de sprites pixel art de soldado SWAT_37
+  - first:
+      213: -2705665694336467383
+    second: Hoja de sprites pixel art de soldado SWAT_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 125
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hoja de sprites pixel art de soldado SWAT_0
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 494
+        width: 113
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9295d0227a38320800000000000000
+      internalID: 2559072777971247552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites pixel art de soldado SWAT_1
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 494
+        width: 111
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7f7425848e98db0800000000000000
+      internalID: -4789041331416074256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites pixel art de soldado SWAT_2
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 494
+        width: 111
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb936fbb556bcd4e0800000000000000
+      internalID: -1955487658843686469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites pixel art de soldado SWAT_3
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 494
+        width: 111
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8334a97e9510e00800000000000000
+      internalID: 1009186642768115872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites pixel art de soldado SWAT_4
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 494
+        width: 110
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353849062861a6530800000000000000
+      internalID: 3848913580763415379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites pixel art de soldado SWAT_5
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 494
+        width: 142
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f71e457fc1be12d0800000000000000
+      internalID: -3306009571858966536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites pixel art de soldado SWAT_6
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 494
+        width: 126
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e1b178982a4a990800000000000000
+      internalID: -7375591578165109177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites pixel art de soldado SWAT_7
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 494
+        width: 102
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2ccb69ec36ddfb0800000000000000
+      internalID: -4621427903668894987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites pixel art de soldado SWAT_8
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 494
+        width: 125
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7aca31c515bbb60800000000000000
+      internalID: 7762887838612105137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites pixel art de soldado SWAT_9
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 489
+        width: 97
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1515fc3248b5043d0800000000000000
+      internalID: -3224476710102675119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites pixel art de soldado SWAT_10
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 480
+        width: 109
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f2f11df53981960800000000000000
+      internalID: 7572964813163147043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites pixel art de soldado SWAT_11
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 486
+        width: 136
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b108b51567da36f0800000000000000
+      internalID: -704013562574011978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites pixel art de soldado SWAT_12
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 230
+        width: 166
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d238266779ae280800000000000000
+      internalID: -9013225169513927281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites pixel art de soldado SWAT_13
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 230
+        width: 164
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7a2109c7d8bd1b0800000000000000
+      internalID: -5630751342964070485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites pixel art de soldado SWAT_14
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 230
+        width: 205
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7336503bf08b080800000000000000
+      internalID: -9171563379576064013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites pixel art de soldado SWAT_16
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 230
+        width: 164
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb929e88c75ef35e0800000000000000
+      internalID: -1927569792455595589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites pixel art de soldado SWAT_17
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 230
+        width: 146
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a314bd991087c0f30800000000000000
+      internalID: 4543138072381571386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites pixel art de soldado SWAT_18
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 230
+        width: 161
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9342eb0192528c420800000000000000
+      internalID: 2650409239012320313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites pixel art de soldado SWAT_19
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 230
+        width: 178
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb01e66fbd6f43de0800000000000000
+      internalID: -1354186163338997570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites pixel art de soldado SWAT_20
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 230
+        width: 190
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a74e417e8057f60800000000000000
+      internalID: 8031335299066133018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites pixel art de soldado SWAT_21
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 40
+        width: 120
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828d7dadfc5c163a0800000000000000
+      internalID: -6673835676265883608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites pixel art de soldado SWAT_22
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 39
+        width: 157
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5503467322a70650800000000000000
+      internalID: 6199101685290435932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites pixel art de soldado SWAT_23
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 40
+        width: 217
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89a3fee14a8c31d0800000000000000
+      internalID: -3369666405393520245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites pixel art de soldado SWAT_24
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 40
+        width: 290
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d1a8d11788a4270800000000000000
+      internalID: 8235544888008645999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites pixel art de soldado SWAT_25
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 40
+        width: 287
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a919875c58e042ae0800000000000000
+      internalID: -1575118001966378598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites pixel art de soldado SWAT_26
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 40
+        width: 304
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17915a49a8a2bec20800000000000000
+      internalID: 3236727531883534705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites pixel art de soldado SWAT_15
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 230
+        width: 166
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5690d0a77752c1045916c6d82339a914
+      internalID: 887077245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 70502016e2dbe044fbb947e5b09f2739
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hoja de sprites pixel art de soldado SWAT_10: 7572964813163147043
+      Hoja de sprites pixel art de soldado SWAT_11: -704013562574011978
+      Hoja de sprites pixel art de soldado SWAT_12: -9013225169513927281
+      Hoja de sprites pixel art de soldado SWAT_13: -5630751342964070485
+      Hoja de sprites pixel art de soldado SWAT_14: -9171563379576064013
+      Hoja de sprites pixel art de soldado SWAT_15: 887077245
+      Hoja de sprites pixel art de soldado SWAT_16: -1927569792455595589
+      Hoja de sprites pixel art de soldado SWAT_17: 4543138072381571386
+      Hoja de sprites pixel art de soldado SWAT_18: 2650409239012320313
+      Hoja de sprites pixel art de soldado SWAT_19: -1354186163338997570
+      Hoja de sprites pixel art de soldado SWAT_20: 8031335299066133018
+      Hoja de sprites pixel art de soldado SWAT_21: -6673835676265883608
+      Hoja de sprites pixel art de soldado SWAT_22: 6199101685290435932
+      Hoja de sprites pixel art de soldado SWAT_23: -3369666405393520245
+      Hoja de sprites pixel art de soldado SWAT_24: 8235544888008645999
+      Hoja de sprites pixel art de soldado SWAT_25: -1575118001966378598
+      Hoja de sprites pixel art de soldado SWAT_26: 3236727531883534705
+      Hoja de sprites pixel art de soldado SWAT_3: 1009186642768115872
+      Hoja de sprites pixel art de soldado SWAT_39: -1043282343
+      Hoja de sprites pixel art de soldado SWAT_4: 3848913580763415379
+      Hoja de sprites pixel art de soldado SWAT_5: -3306009571858966536
+      Hoja de sprites pixel art de soldado SWAT_6: -7375591578165109177
+      Hoja de sprites pixel art de soldado SWAT_7: -4621427903668894987
+      Hoja de sprites pixel art de soldado SWAT_8: 7762887838612105137
+      Hoja de sprites pixel art de soldado SWAT_9: -3224476710102675119
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

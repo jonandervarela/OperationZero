@@ -1,0 +1,418 @@
+fileFormatVersion: 2
+guid: 4168de35113ffa044b93642708ce2cb4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3907098518726392621
+    second: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_0"
+  - first:
+      213: -9163763005400633863
+    second: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_1"
+  - first:
+      213: 3134078383691511475
+    second: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_2"
+  - first:
+      213: 3465695814618951911
+    second: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_3"
+  - first:
+      213: 544542728172927029
+    second: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_4"
+  - first:
+      213: 4034421319889667226
+    second: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_5"
+  - first:
+      213: 1325555008854586166
+    second: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_6"
+  - first:
+      213: 7819751651435281246
+    second: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_7"
+  - first:
+      213: -7019280186018234892
+    second: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_8"
+  - first:
+      213: 4721481269030238261
+    second: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_9"
+  - first:
+      213: -1621544690171091114
+    second: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_10"
+  - first:
+      213: 2628506554734656420
+    second: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_11"
+  - first:
+      213: -4861196830718274030
+    second: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_12"
+  - first:
+      213: 7143148596234351643
+    second: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_13"
+  - first:
+      213: 2255257627113903183
+    second: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_14"
+  - first:
+      213: -2165293545412107011
+    second: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_15"
+  - first:
+      213: 139958288757846283
+    second: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_16"
+  - first:
+      213: -3505745290735036418
+    second: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_17"
+  - first:
+      213: 4815426169077387211
+    second: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_18"
+  - first:
+      213: 4203818255177206106
+    second: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_19"
+  - first:
+      213: -1075098414583068152
+    second: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_20"
+  - first:
+      213: 2486935793377669234
+    second: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_21"
+  - first:
+      213: 2344251667808439164
+    second: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_22"
+  - first:
+      213: -1870350429195846937
+    second: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_23"
+  - first:
+      213: 8835928072157843175
+    second: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_24"
+  - first:
+      213: -3196340850139813840
+    second: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_25"
+  - first:
+      213: -4065672594172238468
+    second: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_26"
+  - first:
+      213: 1720807964283880021
+    second: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_27"
+  - first:
+      213: 9047899938642513691
+    second: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_28"
+  - first:
+      213: 5989583239485685110
+    second: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_29"
+  - first:
+      213: 3491633478678185748
+    second: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_30"
+  - first:
+      213: 5912901818806669520
+    second: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_31"
+  - first:
+      213: 926769012815561856
+    second: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_32"
+  - first:
+      213: 4574516297952251422
+    second: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_33"
+  - first:
+      213: 3334800941879443073
+    second: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_34"
+  - first:
+      213: -681720740396740132
+    second: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_35"
+  - first:
+      213: -988510947471126786
+    second: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_36"
+  - first:
+      213: 5798759583008334957
+    second: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_37"
+  - first:
+      213: -5350460791675364443
+    second: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_38"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 78
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_0"
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 132
+        width: 227
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4cbd0199237c9c0800000000000000
+      internalID: -3907098518726392621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_2"
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 132
+        width: 263
+        height: 455
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6b9265fab7e7b20800000000000000
+      internalID: 3134078383691511475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_5"
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 132
+        width: 208
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94494ea0d42df730800000000000000
+      internalID: 4034421319889667226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_6"
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 132
+        width: 207
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6337409e141556210800000000000000
+      internalID: 1325555008854586166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_7"
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 132
+        width: 224
+        height: 459
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bf29732b6558c60800000000000000
+      internalID: 7819751651435281246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_1"
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 133
+        width: 249
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538353ed232168140800000000000000
+      internalID: 4721481269030238261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_3"
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 132
+        width: 222
+        height: 454
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea3846b13e2b06e0800000000000000
+      internalID: -1870350429195846937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_4"
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 132
+        width: 203
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fc01e6e09909d70800000000000000
+      internalID: 9047899938642513691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cc7ed661f5a128c42a28cba1a10c6afe
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_0": -3907098518726392621
+      "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_1": 4721481269030238261
+      "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_2": 3134078383691511475
+      "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_3": -1870350429195846937
+      "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_4": 9047899938642513691
+      "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_5": 4034421319889667226
+      "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_6": 1325555008854586166
+      "Animaci\xF3n pixel art de soldado t\xE1ctico recogiendo un objeto_7": 7819751651435281246
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
