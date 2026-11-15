@@ -39,7 +39,7 @@ public class MovimientoZero : MonoBehaviour
                 groundCheck.position,
                 radioSuelo,
                 capaSuelo
-            );
+            ) != null;
 
         // Leer movimiento horizontal.
         movimientoHorizontal = movimientoBloqueado
@@ -52,18 +52,18 @@ public class MovimientoZero : MonoBehaviour
         else if (movimientoHorizontal > 0)
             spriteRenderer.flipX = false;
 
-        // Actualizar animación de caminar.
+        // Animación de caminar.
         animator.SetBool(
             "Caminando",
             movimientoHorizontal != 0 && estaEnSuelo
         );
 
-        // Actualizar animación de salto.
+        // Animación de salto.
         animator.SetBool("Saltando", !estaEnSuelo);
 
-        // Saltar solamente si está en el suelo.
+        // W para saltar.
         if (!movimientoBloqueado &&
-            Input.GetKeyDown(KeyCode.Space) &&
+            Input.GetKeyDown(KeyCode.W) &&
             estaEnSuelo)
         {
             rb.linearVelocity = new Vector2(
@@ -73,19 +73,8 @@ public class MovimientoZero : MonoBehaviour
 
             animator.SetBool("Saltando", true);
             animator.SetBool("Caminando", false);
-        }
 
-        // SALTAR con la tecla ESPACIO.
-        if (Input.GetKeyDown(KeyCode.Space) && estaEnSuelo)
-        {
-            rb.linearVelocity = new Vector2(
-                rb.linearVelocity.x,
-                fuerzaSalto
-            );
-
-            estaEnSuelo = false;
-            animator.SetBool("Saltando", true);
-            animator.SetBool("Caminando", false);
+            Debug.Log("ZERO está saltando");
         }
     }
 
@@ -106,7 +95,6 @@ public class MovimientoZero : MonoBehaviour
         );
     }
 
-    // Bloquear el movimiento de ZERO.
     public void BloquearMovimiento()
     {
         movimientoBloqueado = true;
@@ -120,28 +108,27 @@ public class MovimientoZero : MonoBehaviour
         animator.SetBool("Caminando", false);
     }
 
-    // Permitir que ZERO vuelva a moverse.
     public void DesbloquearMovimiento()
     {
         if (!muerto)
             movimientoBloqueado = false;
     }
 
-    // Detener definitivamente el movimiento al morir.
     public void DetenerMovimiento()
     {
         muerto = true;
         movimientoBloqueado = true;
         movimientoHorizontal = 0;
+
         rb.linearVelocity = Vector2.zero;
     }
 
-    // Dibujar el detector del suelo.
     void OnDrawGizmosSelected()
     {
         if (groundCheck != null)
         {
             Gizmos.color = Color.green;
+
             Gizmos.DrawWireSphere(
                 groundCheck.position,
                 radioSuelo

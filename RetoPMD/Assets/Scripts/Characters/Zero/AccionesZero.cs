@@ -11,6 +11,9 @@ public class AccionesZero : MonoBehaviour
     [Header("Referencias")]
     public SistemaVida sistemaVida;
 
+    [Header("Sonido")]
+    private AudioSource audioSource;
+
     private Animator animator;
     private SpriteRenderer spriteRenderer;
     private MovimientoZero movimiento;
@@ -24,8 +27,17 @@ public class AccionesZero : MonoBehaviour
         spriteRenderer = GetComponent<SpriteRenderer>();
         movimiento = GetComponent<MovimientoZero>();
 
+        audioSource = GetComponent<AudioSource>();
+
+        if (audioSource == null)
+        {
+            audioSource = gameObject.AddComponent<AudioSource>();
+        }
+
         if (sistemaVida == null)
+        {
             sistemaVida = GetComponent<SistemaVida>();
+        }
     }
 
     void Update()
@@ -33,13 +45,14 @@ public class AccionesZero : MonoBehaviour
         if (muerto)
             return;
 
-        // Disparar con F.
+        // F para disparar.
         if (Input.GetKeyDown(KeyCode.F))
         {
             Disparar();
         }
     }
 
+    // Iniciar la animación de disparo.
     public void Disparar()
     {
         if (muerto || Time.time < siguienteDisparo)
@@ -53,25 +66,43 @@ public class AccionesZero : MonoBehaviour
 
         siguienteDisparo = Time.time + tiempoEntreDisparos;
 
-        // Activar animación de disparo.
         animator.SetTrigger("Disparar");
+    }
 
-        // Crear proyectil.
+    // Crear la bala mediante el evento de animación.
+    public void CrearBala()
+    {
+        if (muerto)
+            return;
+
+        if (prefabBala == null || puntoDisparo == null)
+            return;
+
         GameObject bala = Instantiate(
             prefabBala,
             puntoDisparo.position,
             Quaternion.identity
         );
 
-        // Calcular dirección según hacia dónde mira ZERO.
         float direccion = spriteRenderer.flipX ? -1f : 1f;
 
-        ProyectilZero proyectil = bala.GetComponent<ProyectilZero>();
+        ProyectilZero proyectil =
+            bala.GetComponent<ProyectilZero>();
 
         if (proyectil != null)
         {
-            proyectil.ConfigurarDireccion(new Vector2(direccion, 0));
+            proyectil.ConfigurarDireccion(
+                new Vector2(direccion, 0)
+            );
         }
+
+        // Reproducir el sonido del disparo.
+        if (audioSource != null && audioSource.clip != null)
+        {
+            audioSource.PlayOneShot(audioSource.clip);
+        }
+
+        Debug.Log("ZERO ha disparado.");
     }
 
     // Recibir daño.
@@ -103,6 +134,30 @@ public class AccionesZero : MonoBehaviour
         if (movimiento != null)
             movimiento.BloquearMovimiento();
 
+        Rigidbody2D rb = GetComponent<Rigidbody2D>();
+
+        if (rb != null)
+        {
+            rb.bodyType = RigidbodyType2D.Dynamic;
+            rb.simulated = true;
+            rb.gravityScale = 1f;
+            rb.constraints = RigidbodyConstraints2D.FreezeRotation;
+            rb.linearVelocity = new Vector2(
+                0f,
+                rb.linearVelocity.y
+            );
+        }
+
+        CapsuleCollider2D capsule =
+            GetComponent<CapsuleCollider2D>();
+
+        if (capsule != null)
+        {
+            capsule.direction = CapsuleDirection2D.Horizontal;
+            capsule.size = new Vector2(1.7f, 0.7f);
+            capsule.offset = new Vector2(0f, -0.3f);
+        }
+
         animator.ResetTrigger("Disparar");
         animator.ResetTrigger("RecibirDano");
         animator.SetTrigger("Morir");
@@ -110,6 +165,7 @@ public class AccionesZero : MonoBehaviour
         Debug.Log("ZERO ha muerto.");
     }
 
+    // Consultar si ZERO está muerto.
     public bool EstaMuerto()
     {
         return muerto;

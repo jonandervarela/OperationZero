@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class ProyectilZero : MonoBehaviour
 {
-    [Header("Configuración")]
+    [Header("Proyectil")]
     public float velocidad = 12f;
     public int dano = 20;
     public float tiempoVida = 3f;
@@ -12,7 +12,6 @@ public class ProyectilZero : MonoBehaviour
 
     void Start()
     {
-        // Destruir la bala después de unos segundos.
         Destroy(gameObject, tiempoVida);
     }
 
@@ -23,7 +22,6 @@ public class ProyectilZero : MonoBehaviour
 
     void Update()
     {
-        // Mover la bala en la dirección indicada.
         transform.Translate(
             direccion * velocidad * Time.deltaTime,
             Space.World
@@ -32,16 +30,26 @@ public class ProyectilZero : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        // Evitar que la bala dañe a ZERO.
+        // Ignorar al propio jugador.
         if (other.CompareTag("Player"))
             return;
 
+        // Ignorar los detectores de proximidad.
+        if (other.isTrigger)
+            return;
+
         // Buscar el sistema de vida del enemigo.
-        SistemaEnemigo enemigo = other.GetComponentInParent<SistemaEnemigo>();
+        SistemaEnemigo enemigo =
+            other.GetComponentInParent<SistemaEnemigo>();
 
         if (enemigo != null)
         {
+            // No dañar cadáveres.
+            if (!enemigo.EstaVivo())
+                return;
+
             enemigo.RecibirDano(dano);
+
             Destroy(gameObject);
         }
     }
